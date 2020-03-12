@@ -25,6 +25,6 @@ The Customer Care team was challenged with responding to pushback from angry exi
 >
 >If you have any additional questions, feel free to reach out at any time. We're happy to help, and hope you have a great day!
 
-This macro was utilized to de-escalate loyal custoners and keep our team functioning through a period of high inbound.
+This macro was utilized to de-escalate loyal customers and keep our team functioning through a period of high inbound.
 
 [Back to Menu](/index)
