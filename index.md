@@ -6,7 +6,8 @@
 ### Macros
 
 [1. Cloudflare Follow-up](/macros1)<br>
-[2. Black Friday](/macros2)<br>
+[2. Coaching](/macros3)<br>
+[3. Black Friday](/macros2)<br>
 
 ---
 
@@ -15,7 +16,9 @@
 [1. How to Use an Umbrella](/pdf/umbrella.pdf)
 
 ---
+### Video Demos
 
+[1.How to Embed a Livestream]
 
 
 
