@@ -18,7 +18,7 @@
 ---
 ### Video Demos
 
-[1. How to Embed a Livestream](/livestreampage)
+[1. How to Embed a Livestream](/livestreampage.md)
 
 
 
