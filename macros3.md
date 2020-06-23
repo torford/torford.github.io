@@ -10,7 +10,7 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 
 **Scenario:** A new feature, Coaching, was released on the platform in June 2020. In order to prepaare the Customer Care team on how to respond to anticipated customer inquiries, I reviewed the new feature and related third-party services in-depth and crafted the following macros.
 
-*1. Intake Options/Prospective Clients*
+**1. Intake Options/Prospective Clients**
 
 >When you first create your Coaching product, you’ll be able to choose how you want to intake clients.
 >
@@ -35,7 +35,7 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 >[Screenshot of Prospective Clients page](https://cl.ly/dd4737ff8d7f)
 <br>
 
-*2. How to integrate with Calendly*
+**2. How to integrate with Calendly**
 
 >Calendly is a free software used for scheduling online appointments. You can integrate your Coaching product with Calendly so that you can easily view and manage >your appointments with your clients within Teachable. 
 >
@@ -52,10 +52,11 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 >[Coaching Advanced Settings](https://cl.ly/8a79e94a1542)
 >
 >Please be sure to click the **Save** icon at the top right corner of the page to save your changes.
+<br>
 
 
 
-These macros were prepared prior to feature launch day, so they were readily available once the feature was live.
+These are a sample of the macros that were prepared prior to feature launch day, so they were readily available once the feature was live.
 
 
 [Back to Menu](/index)
