@@ -34,6 +34,7 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 >
 >[Screenshot of Prospective Clients page](https://cl.ly/dd4737ff8d7f)
 <br>
+
 *2. How to integrate with Calendly*
 
 >Calendly is a free software used for scheduling online appointments. You can integrate your Coaching product with Calendly so that you can easily view and manage >your appointments with your clients within Teachable. 
