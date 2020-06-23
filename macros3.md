@@ -8,9 +8,9 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 
 ### 2. Coaching
 
-**Scenario:** A new feature, Coaching, was released on the platform in June 2020. In order to prepaare the Customer Care team on how to respond to anticipated customer inquiries, I reviewed the new feature in-depth and crafted the following macros.
+**Scenario:** A new feature, Coaching, was released on the platform in June 2020. In order to prepaare the Customer Care team on how to respond to anticipated customer inquiries, I reviewed the new feature and related third-party services in-depth and crafted the following macros.
 
-*Intake Options/Prospective Clients*
+*1. Intake Options/Prospective Clients*
 
 >When you first create your Coaching product, you’ll be able to choose how you want to intake clients.
 >
@@ -33,6 +33,24 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 >You’ll be able to review these prospective clients via the **Prospective** tab of the **Clients** page. If you want to approve a user so that they can checkout, >select the green checkmark icon.
 >
 >[Screenshot of Prospective Clients page](https://cl.ly/dd4737ff8d7f)
+<br>
+*2. How to integrate with Calendly*
+
+>Calendly is a free software used for scheduling online appointments. You can integrate your Coaching product with Calendly so that you can easily view and manage >your appointments with your clients within Teachable. 
+>
+>You can sign up for Calendly directly via the below URL:
+>
+>[Calendly](https://calendly.com/)
+>
+>To integrate with Calendly, you’ll first need to get your API key. This is available from the **Integrations** tab of your Calendly account, as seen here:
+>
+>[Calendly API Key](https://cl.ly/ba92167d705e)
+>
+>Then, you can paste this code in the **Information > Advanced Settings** section of your Coaching product:
+>
+>[Coaching Advanced Settings](https://cl.ly/8a79e94a1542)
+>
+>Please be sure to click the **Save** icon at the top right corner of the page to save your changes.
 
 
 
