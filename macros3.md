@@ -24,20 +24,20 @@ I help create and maintain a repository of over 300 macros for our Customer Care
 >
 >[GIF of Intake Form block](https://cl.ly/3ddd677bd480)
 >
->When using an intake form that *does not* require approval, your students will immediately be brought to your *Post Intake page* after they submit their answers to >the intake questions. You can add a *Pricing* block on your post intake page so that these users will be able to select their pricing option and complete checkout.
+>When using an intake form that *does not* require approval, your students will immediately be brought to your *Post Intake page* after they submit their answers to the intake questions. You can add a *Pricing* block on your post intake page so that these users will be able to select their pricing option and complete checkout.
 >
->When using an intake form that *does* require approval, your students will not be sent to checkout immediately. Instead, they will see a confirmation message that >their answers were submitted and they will be emailed if approved, as seen here:
+>When using an intake form that *does* require approval, your students will not be sent to checkout immediately. Instead, they will see a confirmation message that their answers were submitted and they will be emailed if approved, as seen here:
 >
 >[Screenshot of intake confirmation message](https://cl.ly/1b1fadb428bc)
 >
->You’ll be able to review these prospective clients via the **Prospective** tab of the **Clients** page. If you want to approve a user so that they can checkout, >select the green checkmark icon.
+>You’ll be able to review these prospective clients via the **Prospective** tab of the **Clients** page. If you want to approve a user so that they can checkout, select the green checkmark icon.
 >
 >[Screenshot of Prospective Clients page](https://cl.ly/dd4737ff8d7f)
 <br>
 
 **2. How to integrate with Calendly**
 
->Calendly is a free software used for scheduling online appointments. You can integrate your Coaching product with Calendly so that you can easily view and manage >your appointments with your clients within Teachable. 
+>Calendly is a free software used for scheduling online appointments. You can integrate your Coaching product with Calendly so that you can easily view and manage your appointments with your clients within Teachable. 
 >
 >You can sign up for Calendly directly via the below URL:
 >
