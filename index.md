@@ -7,7 +7,6 @@
 
 [1. Cloudflare Follow-up](/macros1)<br>
 [2. Coaching](/macros3.md)<br>
-[3. Black Friday](/macros2)<br>
 
 ---
 
