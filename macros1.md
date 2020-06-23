@@ -40,7 +40,7 @@ To support the team through this unexpected inbound, I crafted the following mac
 >
 >If you have further concerns, please feel free to send over a screenshot of your DNS records and we'd be happy to review and look into this further for you.
 
-This macro was quickly utilized by the entire team to respond to customer inquiries. By providing assurance, including more specific instructions, and utilizing an image, we were able to clarify what actions were required by our users. Within 4 hours, ticket numbers decreased from 265 to 7.
+This macro was quickly utilized by the entire team to respond to customer inquiries. By providing assurance, including more specific instructions, and utilizing an image, we were able to clarify what actions were required by our users and drastically reduce inbound.
 
 
 [Back to Menu](/index)
