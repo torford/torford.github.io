@@ -4,7 +4,7 @@
 
 A macro is a pre-written response for customer-facing use, commonly used in help desk software services such as Zendesk or Salesforce. Macros save time, increase productivity, ensure accuracy, and reduce error. 
 
-I create and maintain a repository of over 200 macros for a customer support team. 
+I help create and maintain a repository of over 300 macros for our Customer Care team. 
 
 ### 1. Cloudflare Migration Follow-Up
 
